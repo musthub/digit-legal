@@ -81,7 +81,6 @@
         <!-- Pied de page -->
         <footer class="mt-10 pt-6 border-t border-slate-700 text-center text-xs text-slate-500 flex flex-col md:flex-row justify-between items-center gap-2">
             <p>© 2026 DiGiT — Écosystème Décentralisé des Pionniers</p>
-            <a href="privacy.html" class="text-amber-400 hover:underline">← Politique de Confidentialité</a>
         </footer>
     </main>
 
